@@ -1,0 +1,55 @@
+.des , .input{
+
+  display: inline-block;
+}
+#main{
+  position: fixed;
+  background-color: red;
+display: inline-block;
+  width: 50%;
+  margin: 10% 2%;
+  text-align: center;
+}
+h1
+{
+  font-size: 50px;
+  font-weight: bold;
+}
+.des
+{
+  font-size: 30px;
+  font-weight: bold;
+  margin: 3% 5%;
+}
+.roll
+{
+    margin: 3% 4%;
+}
+input{
+  height: 40px;
+  font-size: 35px;
+}
+button{
+  /* position: absolute; */
+  height: 50px;
+  width: 15%;
+  background-color: grey;
+border-style: none;
+}
+#listp{
+  background-color: grey;
+position: relative;
+left: 55%;
+overflow-y: auto;
+height: 650px;
+  display: inline-block;
+  width: 40%;
+  margin: 3% auto;
+}
+#listp p
+{
+  font-size: 30px;
+  text-align: center;
+  word-spacing: 5px;
+
+}
